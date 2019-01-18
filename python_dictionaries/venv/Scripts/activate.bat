@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\415954\Desktop\PycharmPythonProjects\python_dictionary\venv"
+set "VIRTUAL_ENV=C:\Users\415954\Desktop\PycharmPythonProjects\pythonCrashCourse\python_dictionaries\venv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
